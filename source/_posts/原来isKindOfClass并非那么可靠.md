@@ -1,6 +1,6 @@
 title: 原来isKindOfClass并非那么可靠
 date: 2016-01-21 11:15:29
-tags: [iOS]
+tags: [IT]
 categories: objc
 ---
 
