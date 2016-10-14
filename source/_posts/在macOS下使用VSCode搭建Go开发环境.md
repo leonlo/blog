@@ -6,13 +6,13 @@ categories: Go
 ---
 
 
-####准备
+## 准备
 - 安装Go，可以在[golang.org](http://golang.org/)下载（下载最新的），在Terminal中键入`go`可以看到所有支持的commond，这意味着你的Go已经装好了
 
 	**注意事项**：Go安装完毕后一定要配置好`GOPATH`这个环境变量，不然你的VSCode将无法成功部署。
 - 去微软的[VSCode官网]()下载VSCode并安装
 
-####vscode-go插件及常用扩展依赖工具
+## vscode-go插件及常用扩展依赖工具
 
 - 安装vscode-go
 
@@ -45,7 +45,7 @@ categories: Go
 
 注：一条一条执行很累人的，你可以简单写进一个脚本，执行脚本。网络条件良好的情况下，去抽根烟回来就好了。
 
-####使VSCode支持Go语言调试
+## 使VSCode支持Go语言调试
 
 1. 安装调试工具delve，打开Termina输入如下命令。
 
